@@ -48,7 +48,7 @@ Best Model Parameters
 
 **Project Structure**
 
-cst600-week05-sales-nn-pavan/
+Week-5-Assignment-Neural-Networks-for-E-Commerce-Sales-Forecasting/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
